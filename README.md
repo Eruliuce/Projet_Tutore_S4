@@ -1,7 +1,6 @@
 # Projet_Tutore_S4
 
 Projet Tutoré de S4
-Vitrine / Site de vente en ligne spécialisé pour tankistes.
+Site de vente en ligne de tanks et sous-marins.
 
-Chef de Projet : BRIANT Arnaud
-Membres réguliers : AUGUSTE Bastien, MAMET Nicolas et PIPINO Jérôme
+Membres : AUGUSTE Bastien, BRIANT Arnaud, MAMET Nicolas et PIPINO Jérôme
