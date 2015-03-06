@@ -1,0 +1,4 @@
+Visiteur : Il s'agit d'un utilisateur se connectant sur la site. Il peut posséder un compte mais il n'est alors pas connecté à celui-ci. 
+Client : Il s'agit d'un utilisateur ayant créé un compte client et étant connecté à celui-ci. Il peut alors passer commande.
+Employé : Il s'agit d'un utilisateur possédant un compte client et étant connecté à celui-ci. A la différence près qu'il possède plus de droits que l'utilisateur lambda et peut donc gérer les stocks et pièces entre autres.
+Administrateur : Il s'agit d'un utilisateur possédant un compte client et étant connecté à ce dernier. A la différence près qu'il possède plus de droits que l'utilisateurs lambda. Il possède les mêmes droits que l'employé mais il peut aussi gérer les produits, catégories et droits d'administration du site.
