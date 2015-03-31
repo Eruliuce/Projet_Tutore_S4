@@ -1,0 +1,3 @@
+- Table des ligneCommandes qui posent problème (item manquant)
+- Trigger (BEFORE INSERT) lorsqu'une commande est passée pour vérifier que les items sont disponibles
+- 
