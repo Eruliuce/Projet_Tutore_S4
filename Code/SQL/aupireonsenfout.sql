@@ -72,6 +72,7 @@ CREATE TABLE IF NOT EXISTS `produit` (
   `produit_nom` varchar(255) NOT NULL,
   `produit_qteEnStock` int(10) NOT NULL,
   `produit_qteCommandee` int(10) NOT NULL
+  PRIMARY KEY (`ProduitID`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
